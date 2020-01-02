@@ -1,0 +1,4 @@
+
+
+def waveRead() :
+    return "waveread"
